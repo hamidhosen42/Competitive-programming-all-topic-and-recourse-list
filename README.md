@@ -4,9 +4,9 @@
 
    Practice Online Judge:
         
-   1. UVA
-
-   2. Timus
+   1. UVA : https://onlinejudge.org/
+   2. dfd
+   3. Timus
 
    3. URI
    4. dfd

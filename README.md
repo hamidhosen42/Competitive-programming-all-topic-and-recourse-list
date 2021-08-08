@@ -29,6 +29,10 @@
    9. Deque
    10. Priority Queue
 
+   Code: 
+        
+   1. https://github.com/hamidhosen42/STL
+
    Resource:
    
    1. https://www.youtube.com/watch?v=W1McvE4a910&list=PLoa_roVVsxA0D1Kv_T7rbGHtSdYIUo4f5
@@ -38,3 +42,19 @@
    1. Leet Code : https://leetcode.com/accounts/login/
    2. Greek for Greeks : https://practice.geeksforgeeks.org/explore/?company%5B%5D=Amazon&problemType=functional&page=1&sortBy=submissions&company%5B%5D=Amazon
    3. CodeForce : https://codeforces.com/contests 
+
+# Number Theory:
+
+   Topic:
+   
+   1. Harmonic Series/Number of Divisors/Sum of NOD
+   2. Sieve of Eratosthenes
+   3. Prime Factorization
+   4. NOD/NOD using Harmonic Mean
+   5. NOD/GCD using Prime Factorization
+   6. NOD/SOD
+   7. Sum of Number of Divisors (SNOD)
+   8. Modular Arithmetic
+   9. Modular Division
+   10. Euler phi Function
+   11. Euler phi Extension 
